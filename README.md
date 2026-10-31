@@ -283,3 +283,27 @@ https://opendart.com/llms.txt
 Sadece eğitim amaçlıdır.
 
 © Opendart Akademi
+
+<!-- opendart-akademi:bas -->
+
+---
+
+## 🎓 Opendart Akademi
+
+Bu depo, [Opendart Akademi](https://www.opendart.com) eğitmeni **İbrahim Gökyar**'ın **Angular** eğitimlerinde kullanılan örnek kodları içerir.
+
+- 📘 **Eğitim programı:** [Angular eğitimi](https://www.opendart.com/egitimler/Angular/angular-egitimi)
+- 📚 **Konu sayfası:** [https://www.opendart.com/egitim/angular-egitimi](https://www.opendart.com/egitim/angular-egitimi)
+- ▶️ **YouTube oynatma listesi:** [Angular videoları](https://www.youtube.com/playlist?list=PLJFF49ZZtrHc)
+- 🔔 **YouTube kanalı:** [@opendart](https://www.youtube.com/@opendart?sub_confirmation=1)
+- 🏢 **Kurumsal eğitim:** [https://www.opendart.com/Kurumsal/kurumsal](https://www.opendart.com/Kurumsal/kurumsal)
+
+### Son makaleler
+
+- [Angular öğrenmek için hangi ön bilgiler gerekir? Başlamadan önce bilmeniz gerekenler](https://www.opendart.com/makaledetay_angular-ogrenmek-icin-hangi-on-bilgiler-gerekir-baslamadan-once-bilmeniz-gerekenler-151-2777.aspx)
+- [Kurumsal Angular eğitimi nasıl planlanır? Şirketler için adım adım rehber](https://www.opendart.com/makaledetay_kurumsal-angular-egitimi-nasil-planlanir-sirketler-icin-adim-adim-rehber-151-2764.aspx)
+- [Angular öğrenen kişi hangi işlerde çalışır? Kariyer yolları ve aranan beceriler nelerdir?](https://www.opendart.com/makaledetay_angular-ogrenen-kisi-hangi-islerde-calisir-kariyer-yollari-ve-aranan-beceriler-nelerdir-151-2751.aspx)
+- [Angular kaç ayda öğrenilir? Sıfırdan iş bulacak seviyeye gerçekçi süre](https://www.opendart.com/makaledetay_angular-kac-ayda-ogrenilir-sifirdan-is-bulacak-seviyeye-gercekci-sure-151-2738.aspx)
+- [Angular eğitimi ücreti ne kadar? Hangi etkenler fiyatı belirler, ödeme seçenekleri](https://www.opendart.com/makaledetay_angular-egitimi-ucreti-ne-kadar-hangi-etkenler-fiyati-belirler-odeme-secenekleri-151-2725.aspx)
+
+<!-- opendart-akademi:son -->
